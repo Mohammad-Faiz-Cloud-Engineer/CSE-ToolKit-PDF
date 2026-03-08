@@ -11,7 +11,7 @@ So... this started as scattered Google Docs for myself, then became actual books
 | **DSA (C++ only)** | Same stuff, but deep in C++ | For when you actually need to care about memory |
 | **OOP** | Classes, inheritance, patterns across languages | Saw too much bad object-oriented code |
 | **System Design** | Scalable systems, real examples, interview BS | Senior interviews are a different game |
-| **Interview Prep** | The full playbook—coding, system design, behavioral | Because grinding LeetCode alone doesn't get you hired |
+| **Interview Prep** | The full playbook coding, system design, behavioral | Because grinding LeetCode alone doesn't get you hired |
 
 ## The Real Story
 
@@ -45,7 +45,7 @@ If you want to talk about something you learned here, just say *"based on Mohamm
 
 ## Actually Though
 
-If these help you learn something, cool. That's why they're here. If you find a mistake or something confusing, tell me—I fix things when I have time.
+If these help you learn something, cool. That's why they're here. If you find a mistake or something confusing, tell me I fix things when I have time.
 
 That's it. No corporate speak. Just code and explanations that (hopefully) don't suck.
 
